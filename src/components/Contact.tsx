@@ -58,13 +58,13 @@ const Contact = () => {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/dileepkumar',
+      href: 'https://github.com/dileepkumar2003',
       color: 'hover:bg-gray-600'
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/dileep-kumar',
+      href: 'https://www.linkedin.com/in/dileep-kumar-e-441292322/',
       color: 'hover:bg-blue-600'
     },
     {
@@ -263,7 +263,7 @@ const Contact = () => {
                 Email Me Directly
               </a>
               <a
-                href="https://linkedin.com/in/dileep-kumar"
+                href="https://www.linkedin.com/in/dileep-kumar-e-441292322/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 border-2 border-accent text-accent rounded-xl hover:bg-accent hover:text-accent-foreground transition-colors duration-300 font-medium"
